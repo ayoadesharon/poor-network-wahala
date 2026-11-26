@@ -8,4 +8,4 @@ console.log("false");
 }
 }
 }
-isPowerOfTwo(20)
+isPowerOfTwo(16)
